@@ -1,0 +1,4 @@
+git int
+git status 
+git remote 
+git config
